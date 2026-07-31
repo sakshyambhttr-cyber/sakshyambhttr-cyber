@@ -1,167 +1,95 @@
 <!-- ==================================================================== -->
-<!--     SAKSHYAMBHATTR-CYBER | ULTRA-PREMIUM AGENTIC AI README            -->
+<!--            SAKSHYAM BHATTARAI | MASTERPIECE GITHUB PROFILE           -->
 <!-- ==================================================================== -->
 
 <div align="center">
 
-  <!-- 1. TELEMETRY TICKER -->
+  <!-- ANIMATED NEON TYPING HERO -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=500&color=00F0FF&background=00000000&center=true&vcenter=true&random=false&width=900&height=35&lines=%5B+SYSTEM+ONLINE+%5D+%E2%80%A2+AGENTIC+AI+CORE+ACTIVE+%E2%80%A2+AUTONOMOUS+LLM+ORCHESTRATION+%E2%80%A2+FULL-STACK+PIPELINES" alt="System Telemetry Ticker" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=34&pause=1200&color=00F0FF&center=true&vcenter=true&random=false&width=750&height=85&lines=Sakshyam+Bhattarai;AI+Agents+%26+Agentic+AI+Engineer;LLMs%2C+RAG+%26+Machine+Learning;Progressive+Full-Stack+Developer" alt="Sakshyam Bhattarai Banner" />
   </a>
 
   <br />
 
-  <!-- 2. HIGH-IMPACT NEON TYPING HERO -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=BD93F9&center=true&vcenter=true&random=false&width=750&height=80&lines=Sakshyam+Bhattarai;Architecting+Agentic+AI+Systems;Building+Autonomous+LLM+Pipelines;Crafting+Next-Gen+Full-Stack+Apps" alt="Header Typing SVG" />
-  </a>
-
-  <br />
-
-  <!-- 3. HOLOGRAPHIC BADGES -->
+  <!-- BADGE PILLS -->
   <p align="center">
     <a href="https://github.com/sakshyambhttr-cyber">
-      <img src="https://img.shields.io/badge/CORE-AGENTIC_AI-00F0FF?style=for-the-badge&logo=openai&logoColor=black" />
+      <img src="https://img.shields.io/badge/AGENTIC_AI-ENGINEER-00F0FF?style=for-the-badge&logo=openai&logoColor=black" />
     </a>
     <a href="https://github.com/sakshyambhttr-cyber">
-      <img src="https://img.shields.io/badge/STACK-FULL_STACK_DEV-FF0080?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/FULL_STACK-DEVELOPER-FF0080?style=for-the-badge&logo=react&logoColor=white" />
     </a>
     <a href="https://github.com/sakshyambhttr-cyber">
-      <img src="https://img.shields.io/badge/FOCUS-LLM_RAG_PIPELINES-7928CA?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LOCATION-NEPAL_%F0%9F%87%B3%F0%9F%87%B5-7928CA?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+  </p>
+
+  <p align="center">
+    <i>"Exploring the intersection of Autonomous Agentic AI and Modern Full-Stack Systems."</i>
   </p>
 
 </div>
 
 ---
 
-### 🧠 Agentic AI Architecture & Neural Matrix
-
-```text
-               +-------------------------------------------------------+
-               |              USER INTENT / GOAL PROMPT                |
-               +-------------------------------------------------------+
-                                           |
-                                           v
-               +-------------------------------------------------------+
-               |        🤖 MULTI-AGENT REASONING ORCHESTRATOR           |
-               |     (Sakshyam's Autonomous Agent Control Engine)      |
-               +-------------------------------------------------------+
-                                 /                  \
-                                v                    v
-   +---------------------------------------+  +---------------------------------------+
-   |   📚 VECTOR MEMORY / RAG KNOWLEDGE   |  |   ⚡ AUTONOMOUS TOOL EXECUTION CORE   |
-   | (Pinecone, ChromaDB, Graph Databases) |  | (Python, PyTorch, LangChain, API Mesh)|
-   +---------------------------------------+  +---------------------------------------+
-                                \                    /
-                                 v                  v
-               +-------------------------------------------------------+
-               |     🚀 PROGRESSIVE FULL-STACK USER INTERFACE ENGINE    |
-               |   (Next.js 14, TypeScript, Tailwind, Reactive State)   |
-               +-------------------------------------------------------+
-```
-
----
-
-### ⚡ Live Code Architecture: Autonomous Agent Stack
-
-```python
-from agentic_ai import Agent, Tool, MemoryEngine
-
-# Defining Sakshyam's Autonomous Agent Stack
-agent = Agent(
-    name="Sakshyam-AI-Architect",
-    role="Autonomous Task Decomposition & Tool Execution Engine",
-    brain="GPT-4o / Llama-3-70B-Instruct",
-    memory=MemoryEngine(type="Graph-RAG + VectorDB", top_k=5),
-    tools=[
-        Tool("web_research", description="Fetches & synthesizes web data"),
-        Tool("code_generator", description="Generates full-stack TypeScript/Python"),
-        Tool("system_verifier", description="Runs automated unit tests & code optimization")
-    ]
-)
-
-# Execute Goal
-results = agent.run("Architect and deploy an AI-powered SaaS application")
-print(f"🚀 Execution Status: {results.status} | Confidence: {results.confidence}%")
-```
-
----
-
-### 💻 System Telemetry (`sakshyam@neural-core:~`)
+### ⚡ Quick Developer Overview
 
 ```bash
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  OS: Neural-OS 64-bit  |  Host: AI Agent Matrix  |  Kernel: LLM-Orchestrator-5.4       │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│  ⚡ Primary Focus    :  Autonomous AI Agents, Multi-Agent Swarms, Custom RAG Engines  │
-│  🧠 Core Intelligence:  LLMs (OpenAI, Anthropic, Open-Source Llama 3 / Mistral)      │
-│  🛠️ Full-Stack Deck :  TypeScript, React/Next.js, Python, FastAPI, Node.js, Docker   │
-│  📈 Learning Frontier:  Graph RAG, Edge ML Inference, Sub-second Agentic Tool Calls   │
-│  📍 Coordinates      :  Nepal 🇳🇵 | Global Open Source Grid                           │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+❯ identity --verbose
+  Name        : Sakshyam Bhattarai
+  Handle      : @sakshyambhttr-cyber
+  Domain      : AI Agents, Agentic AI, Large Language Models (LLMs) & Full-Stack Web Dev
+  Location    : Nepal 🇳🇵
+
+❯ current_focus
+  Exploring   : Autonomous Multi-Agent Swarms, Graph RAG Pipelines, Vector Search
+  Building    : Next-Gen Full-Stack Web Apps powered by Intelligent Agents
+  Stack       : Python, PyTorch, LangChain, TypeScript, React, Next.js, FastAPI, Docker
 ```
 
 ---
 
-### 📊 Capability & Skill Proficiency Index
+### 🛠️ Tech Arsenal & Frameworks
+
+<div align="center">
+
+| Domain | Technologies & Ecosystem |
+| :--- | :--- |
+| **AI, ML & Agentic AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
+| **Frontend Development** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 Expertise & Mastery Index
 
 <div align="center">
 
 ```text
-Agentic AI & Multi-Agent Swarms   [██████████████████████████] 96%
-LLM Prompting, RAG & Vector DBs   [████████████████████████░░] 92%
-Python / FastAPI / PyTorch Stack  [████████████████████████░░] 90%
-TypeScript & React / Next.js UI   [███████████████████████░░░] 88%
-Backend Architecture & Docker    [██████████████████████░░░░] 85%
+🤖 Agentic AI & Autonomous Swarms  [██████████████████████████] 95%
+🧠 LLMs, RAG & Vector Databases    [████████████████████████░░] 92%
+🐍 Python, FastAPI & PyTorch Stack  [████████████████████████░░] 90%
+💻 TypeScript, React & Next.js UI   [███████████████████████░░░] 88%
+⚙️ Backend Systems & Docker        [██████████████████████░░░░] 85%
 ```
 
 </div>
 
 ---
 
-### 🗺️ AI & Full-Stack Learning Roadmap
+### 📈 GitHub Analytics
 
 <div align="center">
-
-| Phase | Milestone & Domain Focus | Key Technologies |
-| :--- | :--- | :--- |
-| **Current Phase** | 🤖 **Autonomous Multi-Agent Systems** | LangChain, LlamaIndex, Python, AutoGen |
-| **Current Phase** | 🧠 **Retrieval-Augmented Generation (RAG)** | Vector DBs (Chroma, Pinecone), Graph-RAG |
-| **In Progress** | 🚀 **Progressive Full-Stack Architecture** | Next.js 14, TypeScript, Tailwind CSS, FastAPI |
-| **Upcoming** | ⚡ **Edge ML & Model Optimization** | ONNX, Quantization, Local LLM Deployment (Ollama) |
-
-</div>
-
----
-
-### 🛠️ Interactive Tech Stack Matrix
-
-<div align="center">
-
-#### 🤖 AI, Machine Learning & Agentic Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
-
-#### 🚀 Progressive Full-Stack & Cloud Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
+  <br />
+  <a href="https://github.com/sakshyambhttr-cyber">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshyambhttr-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/sakshyambhttr-cyber">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshyambhttr-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -174,37 +102,16 @@ Backend Architecture & Docker    [███████████████�
 
 ---
 
-### 🎵 Focus Beats & Audio Frequency
-
-<div align="center">
-
-  <p><b>🎧 Current Neural Coding Vibe:</b> <i>Synthwave / Lo-Fi AI Research Beats</i></p>
-  <img src="https://readme-spotify-status-three.vercel.app/api/spotify-waving-bars" alt="Audio Visualizer Bars" />
-
-</div>
-
----
-
-### 🔐 Agentic AI Logs & Secret Terminal Commands
+### 💡 Workstation Setup & Environment
 
 <details>
-  <summary><b>🕹️ Click to execute CLI Diagnostic Commands</b></summary>
+  <summary><b>🔍 Click to view my Environment & Tools</b></summary>
   <br />
 
-  ```text
-  $ agent-ctl status --verbose
-  [OK] Agent Worker #1: Active (Goal Decomposition Engine)
-  [OK] Agent Worker #2: Active (RAG Knowledge Retriever)
-  [OK] Agent Worker #3: Active (Full-Stack Code Synthesizer)
-
-  $ cat ~/.config/mindset.json
-  {
-    "principle_1": "Build AI tools that augment human intelligence.",
-    "principle_2": "Iterate continuously; ship code every single day.",
-    "principle_3": "Craft sleek, intuitive, and high-performance UI.",
-    "motto": "Transforming complex LLM capabilities into seamless user experiences."
-  }
-  ```
+  - **IDE:** VS Code with Tokyo Night Theme & JetBrains Mono Font
+  - **OS:** Linux / macOS
+  - **Terminal:** Zsh with Starship Prompt
+  - **AI Tools:** Cursor AI, Ollama, LM Studio
 
 </details>
 
@@ -232,7 +139,7 @@ Backend Architecture & Docker    [███████████████�
   <br /><br />
   
   <p align="center">
-    <i>⚡ Powered by Agentic AI & Open Source • Thanks for visiting! ⭐️</i>
+    <i>Thanks for stopping by my profile! ⭐️</i>
   </p>
 
 </div>
