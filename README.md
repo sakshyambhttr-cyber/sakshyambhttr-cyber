@@ -49,6 +49,19 @@
 
 ---
 
+### 🔄 Agentic Workflow Pipeline
+
+<div align="center">
+
+| Step 1 | Step 2 | Step 3 | Step 4 |
+| :---: | :---: | :---: | :---: |
+| 🎯 **Goal Decomposition** | 📚 **RAG Knowledge Retrieval** | ⚡ **Autonomous Tool Call** | 🚀 **Full-Stack UI Delivery** |
+| *Breaking complex prompts into tasks* | *Searching Vector DBs & Graph Context* | *Executing APIs, Python & Scripts* | *Rendering reactive Next.js UI* |
+
+</div>
+
+---
+
 ### 🛠️ Tech Arsenal & Frameworks
 
 <div align="center">
@@ -64,7 +77,7 @@
 
 ---
 
-### 📊 Expertise & Mastery Index
+### 📊 Skill & Mastery Matrix
 
 <div align="center">
 
@@ -76,20 +89,6 @@
 ⚙️ Backend Systems & Docker        [██████████████████████░░░░] 85%
 ```
 
-</div>
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <br />
-  <a href="https://github.com/sakshyambhttr-cyber">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshyambhttr-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/sakshyambhttr-cyber">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshyambhttr-cyber&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
 </div>
 
 ---
