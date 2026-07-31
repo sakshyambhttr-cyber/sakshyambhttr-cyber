@@ -63,12 +63,12 @@
 
 ---
 
-### ⚡ Live Code Snippet: Autonomous Agent Workflow
+### ⚡ Live Code Architecture: Autonomous Agent Stack
 
 ```python
-from agentic_ai import Agent, Tool, MemoryEngine, MultiAgentSwarm
+from agentic_ai import Agent, Tool, MemoryEngine
 
-# Define Sakshyam's Autonomous Agent Stack
+# Defining Sakshyam's Autonomous Agent Stack
 agent = Agent(
     name="Sakshyam-AI-Architect",
     role="Autonomous Task Decomposition & Tool Execution Engine",
@@ -77,13 +77,13 @@ agent = Agent(
     tools=[
         Tool("web_research", description="Fetches & synthesizes web data"),
         Tool("code_generator", description="Generates full-stack TypeScript/Python"),
-        Tool("system_verifier", description="Runs automated unit tests & security audits")
+        Tool("system_verifier", description="Runs automated unit tests & code optimization")
     ]
 )
 
 # Execute Goal
 results = agent.run("Architect and deploy an AI-powered SaaS application")
-print(f"🚀 Execution Status: {results.status} | Accuracy: {results.confidence}%")
+print(f"🚀 Execution Status: {results.status} | Confidence: {results.confidence}%")
 ```
 
 ---
@@ -120,50 +120,18 @@ Backend Architecture & Docker    [███████████████�
 
 ---
 
-### 🔥 Active Projects & AI Innovations
+### 🗺️ AI & Full-Stack Learning Roadmap
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Multi-Agent Swarm Orchestrator</h3>
-      <p align="center">An autonomous AI agent framework capable of planning, executing complex multi-step workflows, and integrating external APIs.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-🟢_Active_Dev-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ Smart RAG Knowledge Engine</h3>
-      <p align="center">A high-performance Graph-RAG retrieval system connecting vector databases with large language models for precise document Q&A.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-🚀_Prototype-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
-        <img src="https://img.shields.io/badge/ChromaDB-00F0FF?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Progressive Full-Stack AI SaaS</h3>
-      <p align="center">A modern, responsive Next.js web application equipped with dynamic UI components and real-time streaming LLM responses.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-⚡_In_Progress-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛠️ Autonomous Developer Tools</h3>
-      <p align="center">CLI utilities and developer automation tools designed to accelerate coding pipelines using intelligent code generation.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-🟢_Active-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Phase | Milestone & Domain Focus | Key Technologies |
+| :--- | :--- | :--- |
+| **Current Phase** | 🤖 **Autonomous Multi-Agent Systems** | LangChain, LlamaIndex, Python, AutoGen |
+| **Current Phase** | 🧠 **Retrieval-Augmented Generation (RAG)** | Vector DBs (Chroma, Pinecone), Graph-RAG |
+| **In Progress** | 🚀 **Progressive Full-Stack Architecture** | Next.js 14, TypeScript, Tailwind CSS, FastAPI |
+| **Upcoming** | ⚡ **Edge ML & Model Optimization** | ONNX, Quantization, Local LLM Deployment (Ollama) |
+
+</div>
 
 ---
 
