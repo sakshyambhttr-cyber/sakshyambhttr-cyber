@@ -6,7 +6,7 @@
 
   <!-- TYPEWRITER HEADER BANNER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vcenter=true&random=false&width=650&height=70&lines=Hey+there!+I'm+Sakshyam+Bhattarai+%F0%9F%91%8B;Cybersecurity+Researcher+%26+Software+Engineer;Building+Secure+Systems+%7C+Ethical+Hacking;Full-Stack+Dev+%26+Security+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61AFEF&center=true&vcenter=true&random=false&width=680&height=70&lines=Hey+there!+I'm+Sakshyam+Bhattarai+%F0%9F%91%8B;Building+AI+Agents+%26+Agentic+AI+Systems;LLM+Engineering+%26+Machine+Learning;Progressive+Full-Stack+Developer" alt="Typing SVG" />
   </a>
 
   <br />
@@ -25,72 +25,72 @@
   </p>
 
   <p align="center">
-    <b><code>🛡️ Cyber Security & Penetration Testing</code></b> &nbsp;|&nbsp;
-    <b><code>🚀 Secure System Architecture</code></b> &nbsp;|&nbsp;
-    <b><code>⚡ Open Source & Automation</code></b>
+    <b><code>🤖 Agentic AI & Autonomous Systems</code></b> &nbsp;|&nbsp;
+    <b><code>🧠 LLM Workflows & RAG</code></b> &nbsp;|&nbsp;
+    <b><code>🚀 Progressive Full-Stack Dev</code></b>
   </p>
 
 </div>
 
 ---
 
-### ⚡ Terminal Shell (`sakshyam@cyber-sec:~`)
+### ⚡ Terminal Shell (`sakshyam@ai-lab:~`)
 
 ```bash
 ❯ whoami
   name:        "Sakshyam Bhattarai"
-  role:        "Cybersecurity Specialist & Software Developer"
+  role:        "AI Systems Engineer & Full-Stack Developer"
   handle:      "@sakshyambhttr-cyber"
   location:    "Nepal 🇳🇵"
-  mission:     "Securing digital infrastructure & engineering robust applications"
+  mission:     "Architecting autonomous AI agents & building modern, intelligent web applications"
 
 ❯ current_status
-  working_on:  "Security automation tools, vulnerability research & web apps"
-  learning:    "Advanced Exploit Development, Rust Systems Security, Cloud Security"
-  collaborate: "Open-source security tools, penetration testing, full-stack projects"
-  skills:      "Ethical Hacking, Network Security, Python, Go, C/C++, Docker, React"
+  working_on:  "Multi-agent orchestration frameworks, RAG pipelines & smart SaaS tools"
+  learning:    "Agentic Workflows, Graph RAG, Fine-tuning Open LLMs & Model Optimization"
+  collaborate: "Open-source AI agent frameworks, LLM integrations, full-stack projects"
+  skills:      "Python, PyTorch, LangChain, LlamaIndex, TypeScript, React, Next.js, Vector DBs"
 ```
 
 ---
 
-### 🛠️ Tech Stack & Security Arsenal
+### 🛠️ Tech Stack & AI Ecosystem
 
 <div align="center">
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Security & Pentesting** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-1C2733?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **Web & Frameworks** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **DevOps & Databases** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **AI, ML & Agentic Systems** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Frontend & UI** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Pinecone / Chroma](https://img.shields.io/badge/Vector_DBs-00F0FF?style=for-the-badge&logo=database&logoColor=black) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 </div>
 
 ---
 
-### 🔥 Featured Repositories
+### 🔥 Featured Projects & Innovations
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🛡️ Security & Pentesting Tools</h3>
-      <p align="center">Custom security scripts, network scanners, and automated vulnerability evaluation tools.</p>
+      <h3 align="center">🤖 Agentic AI & Autonomous Workflows</h3>
+      <p align="center">Multi-agent systems designed to automate complex tasks, reasoning, and tool execution.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
       </p>
       <p align="center">
         <a href="https://github.com/sakshyambhttr-cyber?tab=repositories"><b>📁 View Repositories</b></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🚀 Full-Stack Web Apps</h3>
-      <p align="center">Scalable web applications engineered with security-first practices and responsive design.</p>
+      <h3 align="center">🚀 Progressive Full-Stack Apps</h3>
+      <p align="center">Intelligent full-stack web applications seamlessly integrating AI models with high-performance UI.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
       </p>
       <p align="center">
         <a href="https://github.com/sakshyambhttr-cyber?tab=repositories"><b>📁 View Repositories</b></a>
@@ -127,27 +127,27 @@
 
 ---
 
-### 💡 Vault / Secret Log
+### 💡 Neural Lab / Secret Logs
 
 <details>
-  <summary><b>🔍 Security Manifesto & Dev Environment</b></summary>
+  <summary><b>🔍 AI Engineering Philosophy & Workstation</b></summary>
   <br />
 
   ```text
   ┌──────────────────────────────────────────────────────────────────────────┐
-  │                           SECURITY MANIFESTO                             │
+  │                         AI DEVELOPMENT MANIFESTO                         │
   ├──────────────────────────────────────────────────────────────────────────┤
-  │  1. Security is not an afterthought; it is built into the architecture.  │
-  │  2. Trust, but verify. Principle of Least Privilege always.              │
-  │  3. Continuous learning is essential in an evolving threat landscape.    │
+  │  1. Agents should empower human capability, not just mirror basic chat.  │
+  │  2. Deterministic software + probabilistic LLMs = Unstoppable Apps.      │
+  │  3. Always build with clean modularity, continuous evaluation, & UX.    │
   └──────────────────────────────────────────────────────────────────────────┘
   ```
 
-  #### 💻 Environment Setup:
-  - **OS:** Kali Linux / Arch Linux / macOS
-  - **Terminal:** Zsh with Powerlevel10k & tmux
-  - **Code Editor:** VS Code / Neovim
-  - **Font:** Fira Code Nerd Font / JetBrains Mono
+  #### 💻 Dev Workstation & Stack:
+  - **Primary IDE:** VS Code / Cursor AI with Tokyo Night Theme
+  - **Terminal:** Zsh with Starship & Custom Aliases
+  - **Local LLM Tools:** Ollama, LM Studio, Hugging Face Hub
+  - **Font:** JetBrains Mono Nerd Font / Fira Code
 
 </details>
 
@@ -175,7 +175,7 @@
   <br /><br />
   
   <p align="center">
-    <i>Thanks for checking out my profile! Feel free to explore my repositories and star ⭐️ any project you find useful!</i>
+    <i>Thanks for stopping by! Feel free to explore my repos and star ⭐️ any project you like!</i>
   </p>
 
 </div>
